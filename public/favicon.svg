@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="mmg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="url(#mmg)"/>
+  <g fill="none" stroke="#f59e0b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 176V80l32 40 32-40 32 40 32-40v96"/>
+    <path d="M64 176h128"/>
+  </g>
+  <text x="128" y="224" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="28" fill="#f3f4f6">M.Mostafa</text>
+</svg>
